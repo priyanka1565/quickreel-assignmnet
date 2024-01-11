@@ -12,7 +12,7 @@ const VideoPlayer = () => {
     const videoElement = useRef(null);
 
     useEffect(() => {
-        // Face-api.js initialization here
+        
     }, []);
 
     const handleVideoChange = (e) => {
